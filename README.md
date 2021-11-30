@@ -88,6 +88,5 @@ Execute the program
 </html>
 </html>
 ```
-# OUTPUT:
-![github logo](image.png)
+
 
