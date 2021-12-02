@@ -13,8 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
-~~~
+# CODE:
+```
 <!DOCTYPE html>
 <html>
 
@@ -99,6 +99,7 @@ Execute the program
      
    </body>
 </html>
+```
 ###OUTPUT:
 ![github logo](img5.png)
 
